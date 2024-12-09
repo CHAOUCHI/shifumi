@@ -18,7 +18,7 @@ int main(){
     /**
      * Defining players names
      */
-    char* player_one = "Massinissa";
+    char* player_one = "Massiniss";
     char* player_two = "Amazir";
 
     printf("\n---------------------- ShiFuMi ! --------------------\n");
